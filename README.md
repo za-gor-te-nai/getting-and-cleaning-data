@@ -5,7 +5,7 @@ The raw data are stored in the file `getdata_projectfiles_UCI HAR Dataset.zip` a
 
 ## The script file ##
 
-The script file `export.R` reads the raw data and produces the two dataset:
+The script file `run_analysis.R` reads the raw data and produces the two dataset:
 
 1. `x.csv`
 2. `xgrouped.csv`
