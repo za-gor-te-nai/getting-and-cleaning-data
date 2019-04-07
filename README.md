@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Course Project #
 
 ## The raw data ##
-The raw data are stored in the file `getdata_projectfiles_UCI HAR Dataset.zip`. You should extract the data in the subdirectory `UCI HAR Dataset`. In this subdirectory you will find the full description of the raw data in the file `README.txt` and in the text files mentioned therein.
+The raw data are stored in the file `getdata_projectfiles_UCI HAR Dataset.zip` available at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. You should extract the data in the subdirectory `UCI HAR Dataset`. In this subdirectory you will find the full description of the raw data in the file `README.txt` and in the text files mentioned therein.
 
 ## The script file ##
 
