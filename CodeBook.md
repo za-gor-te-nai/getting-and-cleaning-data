@@ -3,7 +3,7 @@ In order to get information about the features appearing in the raw data you sho
 
 ## xselected.csv ##
 
-68 variables:
+68 variables with 10299 observations:
 
   * 1 id = subject label (categorical)
   * 2 activity = activity label (categorical)
@@ -30,7 +30,7 @@ In order to get information about the features appearing in the raw data you sho
 	  
 ## xgrouped.csv ##
 
-68 variables:
+68 variables with 180 observations:
 
   * 1 id = subject label (categorical)
   * 2 activity = activity label (categorical)
